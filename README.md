@@ -1,0 +1,2 @@
+# time_random_generator
+使用时间作为随机源的随机数生成器
